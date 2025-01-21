@@ -20,7 +20,7 @@
         @endif
     </head>
     <body>
-        <h1>Hello Mundo!</h1>
+        <h1>Hello, Mundo!</h1>
         <h2>Let's build this amaizing CMS with Laravel!!!</h2>
     </body>
 </html>
