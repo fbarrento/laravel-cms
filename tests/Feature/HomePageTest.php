@@ -1,4 +1,6 @@
-<?php declare(strict_types=1);
+<?php
+
+declare(strict_types=1);
 
 test('home page is accessible', function () {
     $response = $this->get('/');
